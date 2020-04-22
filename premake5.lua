@@ -45,6 +45,29 @@ project "BX"
 		"include/bx/url.h",
 
 		--include compat???
+		"include/bx/compat/freebsd/alloca.h",
+		"include/bx/compat/freebsd/dirent.h",
+		"include/bx/compat/freebsd/malloc.h",
+		"include/bx/compat/freebsd/signal.h",
+		
+		--ios removed--
+		"include/bx/compat/mingw/alloca.h",
+		"include/bx/compat/mingw/dirent.h",
+		"include/bx/compat/mingw/sal.h",
+		"include/bx/compat/mingw/salieri.h",
+		"include/bx/compat/mingw/specstrings_strict.h",
+		"include/bx/compat/mingw/specstrings_undef.h",
+	
+		"include/bx/compat/msvc/alloca.h",
+		"include/bx/compat/msvc/dirent.h",
+		"include/bx/compat/msvc/inttypes.h",
+		"include/bx/compat/msvc/stdbool.h",
+		"include/bx/compat/msvc/pre1600/stdint.h",
+	
+		"include/bx/compat/alloca.h",
+		"include/bx/compat/dirent.h",
+		"include/bx/compat/osx/malloc.h",
+		
 
 		"include/tinystl/allocator.h",
 		"include/tinystl/buffer.h",
