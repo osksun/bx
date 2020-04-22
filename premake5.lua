@@ -5,8 +5,7 @@
 
 project "bx"
 	kind "StaticLib"
-		language "C++"
-		cppdialect "C++17"
+		ppdialect "C++17"
 		exceptionhandling "Off"
 		rtti "Off"
 		defines "__STDC_FORMAT_MACROS"
