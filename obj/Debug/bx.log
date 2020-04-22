@@ -1,0 +1,49 @@
+﻿  allocator.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  bx.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  commandline.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  crtnone.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  debug.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  dtoa.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  easing.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  file.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\dev\D7049E\Sne\extlibs\bx\src\file.cpp(111,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\D7049E\Sne\extlibs\bx\src\file.cpp(191,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  filepath.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  hash.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  math.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  mutex.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  os.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  process.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  semaphore.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  settings.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  sort.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  string.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  thread.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\dev\D7049E\Sne\extlibs\bx\src\thread.cpp(258,4): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  timer.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  Generating Code...
+  Compiling...
+  url.cpp
+C:\dev\D7049E\Sne\extlibs\bx\include\bx\inline\allocator.inl(30,52): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  Generating Code...
+  bx.vcxproj -> C:\dev\D7049E\Sne\extlibs\bx\bin\Debug\bx.lib

@@ -1,0 +1,4 @@
+C:\dev\test\Sne\extlibs\bx\bin\Debug\bx.pdb
+C:\dev\test\Sne\extlibs\bx\obj\Debug\bx.pdb
+C:\dev\D7049E\Sne\extlibs\bx\bin\Debug\bx.pdb
+C:\dev\D7049E\Sne\extlibs\bx\obj\Debug\bx.pdb

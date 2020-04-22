@@ -9,6 +9,7 @@ project "bx"
 	includedirs {
 		path.join(BX_DIR, "include"),
 		path.join(BX_DIR, "3rdparty"),
+		path.join(BX_DIR, "include/compat/msvc")
 	}
 
 	files {
@@ -36,7 +37,7 @@ project "bx"
 			path.join(BX_DIR, "src/bx.cpp"),
 			path.join(BX_DIR, "src/commandline.cpp"),
 			path.join(BX_DIR, "src/crtnone.cpp"),
-			path.join(BX_DIR, "src/debug.cpp"),
+			--path.join(BX_DIR, "src/debug.cpp"),
 			path.join(BX_DIR, "src/dtoa.cpp"),
 			path.join(BX_DIR, "src/easing.cpp"),
 			path.join(BX_DIR, "src/file.cpp"),
